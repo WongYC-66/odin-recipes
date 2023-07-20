@@ -1,0 +1,27 @@
+body{
+    background-color: lightcyan;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+p{
+    width : 300px;
+    border-radius: 20px;
+    margin : 10px auto;
+    padding: 10px;
+    background-color: blueviolet;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+p:hover, p:hover a{
+    background-color: lightgoldenrodyellow;
+    color: black;
+}
+
+img{
+    border-radius: 25px;
+}
